@@ -1,7 +1,6 @@
 # Task_8
 
-# Simple Sales Dashboard Design - Data Analyst Internship (Elevate Labs)
-
+# Simple Sales Dashboard Design
 This repository contains my submission for Task 8: Simple Sales Dashboard Design as part of the Data Analyst Internship program offered by Elevate Labs in collaboration with MSME, Government of India.
 
 ## Objective
